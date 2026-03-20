@@ -1,2 +1,2 @@
 https://dev-meliohotels.pantheonsite.io/mh-login/
-https://dev-meliohotels.pantheonsite.io/title/
+https://dev-meliohotels.pantheonsite.io
