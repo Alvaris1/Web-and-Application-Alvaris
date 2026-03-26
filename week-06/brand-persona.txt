@@ -1,18 +1,18 @@
 Brand Persona: Melio Serenity
-Personality/Tone: Modern Organic Luxury & Calming. The brand speaks the language of pure aesthetics and tranquility, offering a sophisticated urban oasis for those who value silence and high-end comfort.
+Personality/Tone: Modern Luxury & Warm Elegance. The brand speaks the language of pure aesthetics, offering a sophisticated and welcoming urban oasis with natural textures and golden light.
 
 Color Palette:
 
-#FBF9F6 (Warm Ivory) — The primary background color, creating a sense of space, cleanliness, and natural golden light.
+#FDFBF7 (Warm Alabaster) — The primary background color, creating a clean, airy space that feels like natural daylight.
 
-#738A77 (Soft Sage) — An organic accent color connecting the design to nature and the ocean breeze, perfect for subtle highlights and buttons.
+#C5A880 (Muted Gold / Light Oak) — The core accent color, reflecting the golden logo, light wood architectural elements, and warm luxury feel.
 
-#2C3335 (Deep Anthracite) — A soft, dark shade for headings and body text, offering a more premium and legible alternative to harsh black.
+#1C1F22 (Soft Charcoal) — A deep, elegant dark shade for text and headings, providing high contrast without the harshness of pure black.
 
 Typography (Google Fonts):
 
 Headings: Montserrat — A clean, geometric sans-serif font that conveys a premium, modern, and open feel.
 
-Body Text: Lato — A highly readable, friendly sans-serif that balances the structure of the headings while maintaining a contemporary look.
+Body Text: Lato — A highly readable, friendly sans-serif that balances the structure of the headings.
 
-Marketing Pitch: Discover Melio Serenity, a refined sanctuary where modern luxury meets the rhythmic calm of the ocean. From sunlit suites featuring soft sage accents to the exquisite culinary journey at Ethos, every detail is curated for those who value true aesthetics and absolute peace.
+Marketing Pitch: Discover Melio Serenity, a refined sanctuary where modern luxury meets absolute peace. Bathed in natural golden light and featuring elegant wood accents, our spaces—from the serene suites to the Ethos dining experience—are curated for those who value true aesthetics.
