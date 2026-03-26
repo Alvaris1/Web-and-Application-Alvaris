@@ -1,0 +1,8 @@
+1. PERSONA GENERATION PROMPT:
+Act as an expert brand strategist. Create a brand persona for a luxury hotel and restaurant named 'Melio Serenity'. Please provide: 1. Personality/Tone (e.g., 'Modern Luxury & Warm Elegance'), 2. A 3-color palette with HEX codes representing natural light and wood textures, 3. Typography suggestions from Google Fonts, 4. A 2-sentence marketing pitch.
+
+2. UI GENERATION PROMPT:
+Generate a Mobile UI for the Home page of a luxury hotel and restaurant named 'Melio Serenity'. Brand Persona: Modern Luxury & Warm Elegance. Color Palette: Use #FDFBF7 for the main background, #C5A880 for buttons and accents, and #1C1F22 for text and headings. Typography: 'Montserrat' and 'Lato'. Features to include: A hero image of a serene hotel interior bathed in warm golden light, a welcome text saying 'Where modern luxury meets absolute peace', and two elegant cards linking to 'Our Rooms' and 'Ethos Dining' with call-to-action buttons.
+
+3. IMAGE GENERATION PROMPT:
+A high-quality, photorealistic hero image for a luxury hotel website. The scene shows a serene, elegant hotel lobby bathed in warm, golden natural light. Architectural elements feature light oak wood and smooth beige stone. Minimalist, modern furniture in soft earthy tones. Floor-to-ceiling windows looking out at a calm ocean. A subtle, elegant 'M' shaped logo carved into a wooden panel. Warm, inviting, modern organic luxury.
