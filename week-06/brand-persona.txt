@@ -1,18 +1,15 @@
-Brand Persona: Melio Serenity
-Personality/Tone: Modern Luxury & Warm Elegance. The brand speaks the language of pure aesthetics, offering a sophisticated and welcoming urban oasis with natural textures and golden light.
+### Brand Persona: Melio Serenity
 
-Color Palette:
+* **Personality/Tone:** Modern Luxury & Warm Elegance. The brand speaks the language of pure aesthetics, offering a sophisticated and welcoming urban oasis with natural textures and golden light.
 
-#FDFBF7 (Warm Alabaster) — The primary background color, creating a clean, airy space that feels like natural daylight.
+* **Color Palette:**
+    * **#FDFBF7** (Warm Alabaster) — The primary background color, creating a clean, airy space that feels like natural daylight.
+    * **#C5A880** (Muted Gold / Light Oak) — The core accent color, reflecting the golden logo, light wood architectural elements, and warm luxury feel.
+    * **#1C1F22** (Soft Charcoal) — A deep, elegant dark shade for text and headings, providing high contrast without the harshness of pure black.
 
-#C5A880 (Muted Gold / Light Oak) — The core accent color, reflecting the golden logo, light wood architectural elements, and warm luxury feel.
+* **Typography (Google Fonts):**
+    * **Headings:** *Montserrat* — A clean, geometric sans-serif font that conveys a premium, modern, and open feel.
+    * **Body Text:** *Lato* — A highly readable, friendly sans-serif that balances the structure of the headings.
 
-#1C1F22 (Soft Charcoal) — A deep, elegant dark shade for text and headings, providing high contrast without the harshness of pure black.
-
-Typography (Google Fonts):
-
-Headings: Montserrat — A clean, geometric sans-serif font that conveys a premium, modern, and open feel.
-
-Body Text: Lato — A highly readable, friendly sans-serif that balances the structure of the headings.
-
-Marketing Pitch: Discover Melio Serenity, a refined sanctuary where modern luxury meets absolute peace. Bathed in natural golden light and featuring elegant wood accents, our spaces—from the serene suites to the Ethos dining experience—are curated for those who value true aesthetics.
+* **Marketing Pitch:**
+Discover Melio Serenity, a refined sanctuary where modern luxury meets absolute peace. Bathed in natural golden light and featuring elegant wood accents, our spaces—from the serene suites to the Ethos dining experience—are curated for those who value true aesthetics.
