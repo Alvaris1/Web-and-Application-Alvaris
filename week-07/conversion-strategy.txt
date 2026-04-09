@@ -1,0 +1,2 @@
+I optimized the images to improve the website's performance. Initially, I wanted to convert images to WebP format, but due to Pantheon's sandbox server configuration restrictions, the converter plugin was blocked.
+Instead, I successfully used the "Smush" plugin. I ran a Bulk Smush optimization, which compressed all 30 images in my media library, saving about 6.7 MB (73%) of space. This helped improve my Lighthouse Performance score.
