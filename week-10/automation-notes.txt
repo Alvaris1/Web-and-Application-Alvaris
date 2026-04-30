@@ -1,0 +1,12 @@
+The Coupon:
+Coupon Code: MELIOVIP (15% discount)
+Business Logic: As a premium hotel, we use this strictly as an acquisition tool to incentivize first-time direct bookings through our own website, rather than paying high commissions to third-party OTAs like Booking.com.
+
+The Automation:
+I designed a Welcome Email triggered immediately when someone joins our VIP guest list.
+Subject line: "Welcome to Your Serenity."
+The email uses our brand identity and offers a warm welcome along with the MELIOVIP promo code to drive immediate direct conversions.
+
+The Data Strategy:
+I replaced the "Favorite Coffee" field with a "Preferred Welcome Drink" field (Champagne, Fresh Orange Juice, Sparkling Water).
+Strategy: If a guest selects "Champagne," we tag their profile in our CRM. We use this data to surprise them upon arrival with their favorite drink, and also to send targeted email campaigns later (e.g., offering a special Valentine's Day package that includes a complimentary bottle of premium champagne in their suite).
